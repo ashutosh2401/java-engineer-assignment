@@ -44,7 +44,7 @@ public class Task3 {
         }
 
         private void processRecord(StatementRecord record) {
-            // left alone on purpose - out of scope per the task rules
+            // unchanged
         }
     }
 
